@@ -182,7 +182,7 @@ body {
     .box_dua_isi {
         width: 90%;
         height: 100px;
-        margin-top: 30px;
+        margin-top: 120px;
     }
     #tambahan_edu{
         height: 60px;
@@ -209,6 +209,9 @@ body {
         margin: 0 auto;
         font-size: 12px;
         padding: 10px;
+    }
+    #Experiences{
+        margin-bottom: 300px;
     }
     .find_me p{
         padding: 12px;
